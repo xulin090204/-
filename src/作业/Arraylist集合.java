@@ -13,7 +13,7 @@ package 作业;
 	    array.add("ポルトガル");
 	    array.add("フランス");
 
-	    String country = array.get(0);
+	    String country = array.get(1);
 	    System.out.println(country);
 	  }
 	}
